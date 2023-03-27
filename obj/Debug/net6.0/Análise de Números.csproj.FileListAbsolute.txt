@@ -1,0 +1,15 @@
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\bin\Debug\net6.0\Análise de Números.exe
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\bin\Debug\net6.0\Análise de Números.deps.json
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\bin\Debug\net6.0\Análise de Números.runtimeconfig.json
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\bin\Debug\net6.0\Análise de Números.dll
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\bin\Debug\net6.0\Análise de Números.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\Análise de Números.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\Análise de Números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\Análise de Números.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\Análise de Números.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\Análise de Números.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\Análise de Números.dll
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\refint\Análise de Números.dll
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\Análise de Números.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\Análise de Números.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Análise de Números\Análise de Números\obj\Debug\net6.0\ref\Análise de Números.dll
